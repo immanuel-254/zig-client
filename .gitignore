@@ -7,6 +7,8 @@ zig-out/
 *.so
 *.dylib
 
+include/
+
 # Test binary, built with `go test -c`
 *.test
 
